@@ -1,5 +1,5 @@
 ### Hi there I am Riyaz - [Riyaz][webdevplaylist]👋
-### I am a ❤❤❤ javaScript Lover ❤❤❤
+### I'm a ❤❤❤ javaScript Lover ❤❤❤
 
 - 🔭 I’m currently working to develop my skills
 - 🌱 I’m currently learning javaScript , React , Mongo
