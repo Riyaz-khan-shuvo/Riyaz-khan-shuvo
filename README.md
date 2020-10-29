@@ -1,4 +1,4 @@
-### Hi there I am Riyaz - [Riyaz][webdevplaylist]👋
+### Hi there I'm Riyaz - [Riyaz][webdevplaylist]👋
 ### I'm a ❤❤❤ javaScript Lover ❤❤❤
 
 - 🔭 I’m currently working to develop my skills
