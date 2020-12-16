@@ -1,9 +1,10 @@
 ### Hi there I'm Riyaz - [Riyaz][webdevplaylist]👋
+### I am MERN Stack Developer
 ### I'm a ❤❤❤ javaScript Lover ❤❤❤
 
 - 🔭 I’m currently working to develop my skills
-- 🌱 I’m currently learning javaScript , React , Mongo
-- 🚗 2021 Goals: Learn React,Vue, Node
+- 🌱 I’m currently learning Vue and Angular
+- 🚗 2021 Goals: Learn Vue and Angular
 - ⚡ Fun fact: ... I love to travel and learn new things. 
 
 ### Connect with me:
