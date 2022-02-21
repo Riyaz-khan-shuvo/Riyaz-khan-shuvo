@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working to develop my skills
 - 🌱 I’m currently learning Vue and Angular
-- 🚗 2021 Goals: Learn Vue and Angular
 - ⚡ Fun fact: ... I love to travel and learn new things. 
 
 ### Connect with me:
