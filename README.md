@@ -3,7 +3,6 @@
 ### I'm a ❤❤❤ javaScript Lover ❤❤❤
 
 - 🔭 I’m currently working to develop my skills
-- 🌱 I’m currently learning Vue and Angular
 - ⚡ Fun fact: ... I love to travel and learn new things. 
 
 ### Connect with me:
