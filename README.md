@@ -23,9 +23,6 @@
 [![CodeChef](https://img.shields.io/badge/%20-CodeChef-black?color=14171A&labelColor=212121&logo=codechef&logoColor=#fff)](https://www.codechef.com/users/mdriyaz5965)
 [![CodeChef](https://img.shields.io/badge/%20-CodeForces-black?color=14171A&labelColor=212121&logo=codeforces&logoColor=#fff)](https://codeforces.com/profile/riyaz_hossain)
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13954707/riyaz-hossain)
-
-<br />
-
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
