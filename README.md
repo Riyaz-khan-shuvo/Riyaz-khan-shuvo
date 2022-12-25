@@ -17,9 +17,11 @@
 
 ### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/riyaz-hossain-096b421b4/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/riyaz-khan-shuvo/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/riyaz.khanshuvo) 
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@mdriyaz5965/) 
+[![CodeChef](https://img.shields.io/badge/%20-CodeChef-black?color=14171A&labelColor=212121&logo=codechef&logoColor=#fff)](https://www.codechef.com/users/mdriyaz5965)
+[![CodeChef](https://img.shields.io/badge/%20-CodeForces-black?color=14171A&labelColor=212121&logo=codeforces&logoColor=#fff)](https://codeforces.com/profile/riyaz_hossain)
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13954707/riyaz-hossain)
 
 <br />
