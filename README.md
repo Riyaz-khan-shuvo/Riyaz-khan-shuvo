@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="[https://bimasha.com/](http://riyaz-khan-shuvo.netlify.app/)">
+  <a href="[http://riyaz-khan-shuvo.netlify.app/](http://riyaz-khan-shuvo.netlify.app/)">
   <img src="https://github.com/Riyaz-khan-shuvo/Snake-SVG/blob/main/snake.svg"
        alt="snake" /></a>
 </div>
