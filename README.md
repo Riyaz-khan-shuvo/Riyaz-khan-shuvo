@@ -5,7 +5,8 @@
 <div align="center">
   <a href="http://riyaz-khan-shuvo.netlify.app/">
   <img src="https://github.com/Riyaz-khan-shuvo/Snake-SVG/blob/main/snake.svg"
-       alt="snake" /></a>
+       alt="snake" />
+  </a>
 </div>
 
 ### Hi there I'm Riyaz - [Riyaz][portfolio]👋
